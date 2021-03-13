@@ -4,16 +4,14 @@ The first one works with two values for simplicity and speed. We can do the foll
 
 The other is for statistical calculations. Standard deviation, variance, median, mode, geometric mean, harmonic mean, arithmetic mean, frequency.
 
-
-![1](https://user-images.githubusercontent.com/78660341/109948686-9ee68b80-7ceb-11eb-9f4e-ad6f525956b9.png)
-
-
-![2](https://user-images.githubusercontent.com/78660341/109948688-9ee68b80-7ceb-11eb-9818-57b92d0f811b.png)
-
-
-
 The calculations that we need most in daily use are together.
 
-Switching between two machines with the button from the form to quickly change when needed.
+![1](https://user-images.githubusercontent.com/78660341/111034375-52572a80-8426-11eb-89ef-321988f2fac7.png)
 
-Fast and easy to use.
+
+![2](https://user-images.githubusercontent.com/78660341/111034376-52efc100-8426-11eb-99a2-a35b0e6ee170.png)
+
+
+
+
+
